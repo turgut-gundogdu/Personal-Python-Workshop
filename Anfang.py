@@ -1,5 +1,3 @@
-A = 2.5
-print(A)
-int(A):2
-print(A)
-
+A = '1'+'2'
+type(A)
+print(type(A))
